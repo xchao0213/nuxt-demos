@@ -9,6 +9,7 @@
 export default {
   head: {
     title: 'Home page'
-  }
+  },
+  layout: 'main'
 }
 </script>
