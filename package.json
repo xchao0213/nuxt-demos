@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate":"nuxt generate"
+  },
+  "author": "xchao0213@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^1.4.1"
+  }
+}
